@@ -7,7 +7,7 @@
 🛠️ Tecnologías que manejo:
 - **Lenguajes:** Python, C#, Java
 - **Bases de datos:** MySQL (SQL)
-- **Backtend:** PHP (API REST, PDO, JWT, Slim Framework)
+- **Backend:** PHP (API REST, PDO, JWT, Slim Framework)
 - **Frontend:** HTML, CSS, JavaScript
 
 
@@ -25,8 +25,8 @@
 
 
 📫 Contacto:
-- ✉️ Email: [vvalente00@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/valentín-brazanovich-42a707262]
+- ✉️ Email: vvalente00@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/valentín-brazanovich-42a707262
 <!---
 ValentinBrazanovich/ValentinBrazanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
