@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValentinBrazanovich
 - 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning programming xd
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: mail
 
