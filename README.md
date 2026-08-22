@@ -8,7 +8,7 @@
 - **Lenguajes:** Python, C#, Java
 - **Bases de datos:** MySQL (SQL)
 - **Backend:** PHP (API REST, PDO, JWT, Slim Framework)
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, Angular
 
 
 📂 Repositorios destacados:
