@@ -1,14 +1,14 @@
-# 👋 ¡Hola! Soy Valentín Brazanovich
+# 👋 Hello! I'm Valentin Brazanovich
 
-🎓 Estudiante de programación en la Universidad Tecnológica Nacional (UTN).
+🎓 Student at the Universidad Tecnológica Nacional (UTN).
 
-💻 Apasionado por el desarrollo de software.
+💻 Passionate about software development.
 
-🛠️ Tecnologías que manejo:
-- **Lenguajes:** Python, C#, Java
-- **Bases de datos:** MySQL (SQL)
-- **Backend:** PHP (API REST, PDO, JWT, Slim Framework)
-- **Frontend:** HTML, CSS, JavaScript, Angular
+🛠️ Technologies:
+- **Frontend:** Angular, React, Typescript, Javascript, HTML5, CSS3/Sass
+- **Backend & APIs:** C#, Node.js, PHP (Slim, REST APIs, JWT)
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Postman
 
 
 📂 Repositorios destacados:
