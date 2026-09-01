@@ -27,5 +27,5 @@
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/valentín-brazanovich-42a707262](https://www.linkedin.com/in/valent%C3%ADn-brazanovich-42a707262)
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/valentinbrazanovich/)
 * ✉️ **Email:** [vvalente00@gmail.com](mailto:vvalente00@gmail.com)
