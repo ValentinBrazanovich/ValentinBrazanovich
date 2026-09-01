@@ -1,24 +1,31 @@
-# 👋 Hello! I'm Valentin Brazanovich
+# 👋 Hello! I'm Valentín Brazanovich
 
-🎓 Student at the Universidad Tecnológica Nacional (UTN).
+🎓 **Software Development Student** at Universidad Tecnológica Nacional (UTN - FRA).  
+💻 Focused on building robust full-stack web applications, RESTful APIs, and responsive architectures.
 
-💻 Passionate about software development.
+---
 
-🛠️ Technologies:
-- **Frontend:** Angular, PWA (@angular/pwa, Service Workers), React, Typescript, Javascript, HTML5, CSS3/Sass
-- **Backend & APIs:** C#, Node.js, PHP (Slim, REST APIs, JWT)
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, Postman
+### 🛠️ Tech Stack & Tools
 
+* **Frontend:** Angular, React, TypeScript, PWA (`@angular/service-worker`), JavaScript, HTML5, SCSS / CSS3
+* **Backend & APIs:** NestJS, Node.js, Express, C#, PHP (Slim Framework), REST APIs
+* **Databases & ORM/ODM:** MongoDB (Mongoose), PostgreSQL, MySQL
+* **Auth & Security:** JWT, bcrypt, Role-Based Access Control (RBAC)
+* **Tools & Platforms:** Git, GitHub, Vercel, Postman, Cloudinary
 
-📂 Featured Repositories:
-Coming Soon...
+---
 
+### 📂 Featured Projects
 
-📫 Contact:
-- ✉️ Email: vvalente00@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/valentín-brazanovich-42a707262
-<!---
-ValentinBrazanovich/ValentinBrazanovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **[Socialite](https://github.com/ValentinBrazanovich/Socialite)**  
+  *Full-stack Progressive Web App (PWA) built with **Angular**, **NestJS**, and **MongoDB Atlas**.*  
+  Features cloud image uploads (Cloudinary API), offline caching via Service Workers, dynamic metric dashboards with **Chart.js**, and an administrative management panel (RBAC).
+
+*More coming soon...*
+
+---
+
+### 📫 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/valentín-brazanovich-42a707262](https://www.linkedin.com/in/valent%C3%ADn-brazanovich-42a707262)
+* ✉️ **Email:** [vvalente00@gmail.com](mailto:vvalente00@gmail.com)
