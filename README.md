@@ -31,3 +31,4 @@
 
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/valentinbrazanovich/)
 - ✉️ **Email:** [vvalente00@gmail.com](mailto:vvalente00@gmail.com)
+- 📱 **Phone / WhatsApp:** [+54 9 11 7618-5175](https://wa.me/5491176185175)
