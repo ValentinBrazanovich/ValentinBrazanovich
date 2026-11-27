@@ -1,8 +1,7 @@
 # 👋 Hello! I'm Valentín Brazanovich
 
-🎓 **Software Development Student** at Universidad Tecnológica Nacional (UTN - FRA).  
+🎓 **Software Development Graduate** from Universidad Tecnológica Nacional (UTN - FRA).  
 💻 Focused on building robust full-stack web & mobile applications, RESTful APIs, and responsive architectures—leveraging **AI-assisted workflows** for rapid prototyping, debugging, and code optimization.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
